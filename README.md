@@ -5,4 +5,6 @@ Maria é jogadora de Basquete e criou uma tabela para registrar suas potuações
 Solução:
 Foi criado um programa em forma de tabela, na liguagem Dephi para facilitar a marcação do desempenho de Maria.
 
-Programa esta 
+Programa esta nesse link https://github.com/ferdyblack/Questao_Pratica-Placar/tree/master
+
+Caso não queira baixar o dephi somente baixar o executavel projeto placar.exe
