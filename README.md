@@ -7,4 +7,4 @@ Foi criado um programa em forma de tabela, na liguagem Dephi para facilitar a ma
 
 Programa esta nesse link https://github.com/ferdyblack/Questao_Pratica-Placar/tree/master
 
-Caso não queira baixar o dephi somente baixar o executavel projeto placar.exe
+Caso não queira baixar o dephi somente baixar o executavel "ProjetoPlacar.exe"
